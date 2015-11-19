@@ -1,0 +1,86 @@
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.About.resources
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.FormAttendance.resources
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.FormContract.resources
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.FormEditProfile.resources
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.FormEmployee.resources
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.FormInventory.resources
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.FormLogin.resources
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.FormMainMenuMaster.resources
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.FormPayroll.resources
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.FormPettyCash.resources
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.FormUserMainMenu.resources
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.Properties.Resources.resources
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.ToolsPingPong.resources
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.ToolsSnake.resources
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.SplashScreen.resources
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.Tools.resources
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.ToolsTicTacToe.resources
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.csproj.GenerateResource.Cache
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\BahteraAdhiguna.exe.config
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\BahteraAdhiguna.exe
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\BahteraAdhiguna.pdb
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.exe
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.pdb
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.csprojResolveAssemblyReference.cache
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Important\Clients\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\BahteraAdhiguna.exe.config
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.exe
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.pdb
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\BahteraAdhiguna.exe
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\BahteraAdhiguna.pdb
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.csprojResolveAssemblyReference.cache
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\Interop.ADODB.dll
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\Interop.ADOX.dll
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.csproj.ResolveComReference.cache
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.About.resources
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.FormAttendance.resources
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.FormContract.resources
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.FormEditProfile.resources
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.FormEmployee.resources
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.FormInventory.resources
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.FormLogin.resources
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.FormMainMenuMaster.resources
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.FormPayroll.resources
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.FormPettyCash.resources
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.FormUserMainMenu.resources
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.Properties.Resources.resources
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.ToolsPingPong.resources
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.ToolsSnake.resources
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.SplashScreen.resources
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.Tools.resources
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.ToolsTicTacToe.resources
+F:\Downloads\PT Bahtera Adhiguna (1)\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.csproj.GenerateResource.Cache
+K:\Kuliah\PT Bahtera Adhiguna\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\bin\Debug\BahteraAdhiguna.exe.config
+K:\Kuliah\PT Bahtera Adhiguna\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\Interop.ADODB.dll
+K:\Kuliah\PT Bahtera Adhiguna\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\Interop.ADOX.dll
+K:\Kuliah\PT Bahtera Adhiguna\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.csproj.ResolveComReference.cache
+K:\Kuliah\PT Bahtera Adhiguna\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.exe
+K:\Kuliah\PT Bahtera Adhiguna\PT Bahtera Adhiguna\BahteraAdhiguna\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.pdb
+K:\Projects\Repos\IHRIS\BahteraAdhiguna\bin\Debug\BahteraAdhiguna.exe.config
+K:\Projects\Repos\IHRIS\BahteraAdhiguna\obj\Debug\Interop.ADODB.dll
+K:\Projects\Repos\IHRIS\BahteraAdhiguna\obj\Debug\Interop.ADOX.dll
+K:\Projects\Repos\IHRIS\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.csproj.ResolveComReference.cache
+K:\Projects\Repos\IHRIS\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.exe
+K:\Projects\Repos\IHRIS\BahteraAdhiguna\obj\Debug\BahteraAdhiguna.pdb
